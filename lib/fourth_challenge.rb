@@ -27,6 +27,4 @@ def fourth_challenge
       ]
    }
 }
-:hero[status]="dead"
-:heroine[status]="dead"
 end
